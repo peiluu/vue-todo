@@ -82,5 +82,8 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "eslint.options": { 
+    "configFile": "D:/Project/project/vue-todo/.eslintrc.js"
+ }
 }
