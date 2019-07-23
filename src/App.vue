@@ -29,7 +29,6 @@ export default {
       todos: [{
         title: '第一个 Todo',  //存在标题
         project:'我我我',      //存放具体项目
-    
         done: false,        //表示没做
       }],
     };
